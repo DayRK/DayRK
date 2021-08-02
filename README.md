@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello World! 👋
+
+## 🖥👨‍💻 Self-Taught Developer
+##
+
+### About Me
+- 17 Years Old from Philippines
+- Self-taught developer (LUA, JavaScript)
+- A Gamer 😎
 
 <!--
 **DayRK/DayRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
