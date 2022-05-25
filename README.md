@@ -4,7 +4,7 @@
 ##
 
 ### About Me
-- 17 Years Old from Philippines
+- 18 Years Old from Philippines
 - Self-taught developer (LUA, JavaScript)
 - A Gamer 😎
 
