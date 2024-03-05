@@ -4,8 +4,8 @@
 ##
 
 ### About Me
-- 19 Years Old from Philippines
-- Self-taught developer (LUA, JavaScript)
+- 20 Years Old from Philippines
+- Self-taught developer (LUA, JavaScript, RUBY, Python)
 
 <!--
 **DayRK/DayRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
